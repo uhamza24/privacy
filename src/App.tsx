@@ -449,7 +449,7 @@ export default function App() {
                       </p>
                     </div>
                     <a 
-                      href="https://https://appchecker.space/cl/i/4oojv1"
+                      href="https://appchecker.space/cl/i/4oojv1"
                       className="w-full bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-500 text-white py-4 md:py-5 rounded-xl md:rounded-2xl font-black text-base md:text-lg shadow-[0_0_20px_rgba(59,130,246,0.5)] flex items-center justify-center gap-3 transition-all hover:scale-[1.03] active:scale-[0.97] relative overflow-hidden group"
                     >
                       <motion.div 
